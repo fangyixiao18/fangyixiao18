@@ -1,4 +1,12 @@
-### Hello world!
+🐧 Currently @ `Tencent`.
+
+💻 Worked in `Huawei` / `Shanghai AI Lab` / `Alibaba` before.
+
+🎓 Graduated from `HUST` / `CMU`.
+
+🤔 Interested in self-supervised learning, large language models, multi-modality models, diffusion models, etc.
+
+📫 yixiaof@outlook.com
 
 <!--
 **fangyixiao18/fangyixiao18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
