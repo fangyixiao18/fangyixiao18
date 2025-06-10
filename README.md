@@ -1,6 +1,6 @@
-🐧 Currently @ `Tencent`.
+Currently @ `StepFun`.
 
-💻 Worked in `Huawei` / `Shanghai AI Lab` / `Alibaba` before.
+💻 Worked in `Huawei` / `Shanghai AI Lab` / `Alibaba` / `Tencent` before.
 
 🎓 Graduated from `HUST` / `CMU`.
 
