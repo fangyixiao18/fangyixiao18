@@ -6,6 +6,8 @@
 
 🤔 Interested in self-supervised learning, large language models, multi-modality models, diffusion models, etc.
 
+[Google scholar](https://scholar.google.com/citations?user=yDNIBE0AAAAJ&hl=en)
+
 <!--
 **fangyixiao18/fangyixiao18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
